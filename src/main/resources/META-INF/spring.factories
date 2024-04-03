@@ -1,0 +1,2 @@
+# spring boot starter todo ??? sdk??
+org.springframework.boot.autoconfigure.EnableAutoConfiguration =com.morsun.clientsdk.MorSunApiClientConfig
